@@ -6,6 +6,15 @@ to improvements and suggestions, so drop them my way if you've got them!
 
 The project is centered around some VERY basic Banking activities.
 
+## Prerequisites
+
+* go
+* godog
+
+## Runnable Example
+
+For a passing example run `godog ./features/withdrawals/atms.feature:8`
+
 ## Project Set Up
 
 Here's a breakdown of the repo:
