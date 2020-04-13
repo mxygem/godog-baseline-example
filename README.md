@@ -1,8 +1,8 @@
 # godog-baseline-example
 
-A quick demo project showing how I currently set up godog suites for black-box style API testing.
+A quick demo project showing how I set up godog suites for black-box style API testing.
 This is not meant to be the end all be all for how a project should be configured. I'm quite open
-to improvements and suggestions, so drop them my way if you've got them!
+to improvements and suggestions, so drop them my way if you've got them! **WARNING** This project may be out of date and not work without tweaking.
 
 The project is centered around some VERY basic Banking activities.
 
